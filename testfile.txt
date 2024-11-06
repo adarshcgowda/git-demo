@@ -8,7 +8,6 @@ This is the first file in this repo.
 This is to edit the exitinf txt file to see how it works. Bla Bla Bla Bla
 
 
-## More Ipsum Below|
+## Website Contents
 
-qwefgeregergerggergergergrvewsdfergergegergerdryj7iyuji7lkoiumuiythtp;o.i,umynhtbgrvfrbtnrytmu,i.o.li,kmjnhbgvfcffrmui,.pol,ikmujnyhbtgvrfcedbnp.;ol,ikmujtnyhrbtgervflkjlhgfdsafghjkjbhvgcfxdzxcgvbnbjhvgcdserfgfdweefdqaswsqesrdtyuhytfrdtyuikolkjhbghnmjk,mjk,lkmjhgfdsawq	QAWSEA	aq	QASWDFSADXCFGVHBJGVCFDXSZXFCGVHBJBGVFCDXCGVHBJGVFCDXSZAZFXCGHFREWQ21345678U97657890989090-=090-=0=0=-098765RTYUIOKIJUHYGTFRDFTGYHUJIKOLP;[']
-\]'[;PLOKIJHUGFDXSZDFGHJKL]
+1. index.html
